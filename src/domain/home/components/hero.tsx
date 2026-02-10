@@ -25,7 +25,6 @@ export default function Hero() {
                         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight px-2 sm:px-0">
                             Your Learning Journey{' '}
                             <span className="text-[#1C77C3]">Starts Here</span>{' '}
-                            <span className="text-[#D63230]">About Our Platform</span>
                         </h1>
 
                         {/* Description */}
